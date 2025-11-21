@@ -27,7 +27,7 @@ const Navbar = () => {
 const Footer = () => {
   return (
     <footer className="py-8 border-t border-white/5 bg-black/20 text-center text-slate-500 text-sm">
-      <p>© {new Date().getFullYear()} Aether Portfolio. Built with React & Tailwind.</p>
+      <p>© {new Date().getFullYear()} BuildAura — Craft The Digital Aura</p>
     </footer>
   );
 };
